@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="65dsd-berkeley-clocks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/65dsd_berkeley_clocks_jar</output-path>
+    <root id="archive" name="65dsd-berkeley-clocks.jar">
+      <element id="module-output" name="65dsd-berkeley-clocks" />
+    </root>
+  </artifact>
+</component>
