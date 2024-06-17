@@ -80,7 +80,7 @@ public class MasterClock extends Clock implements Runnable {
                     Thread.sleep(random.nextInt(5000));
                     continue;
                 }
-                if (random.nextInt(100) == 0) {
+                if (random.nextInt(10) == 0) {
                     System.out.println();
                     System.out.println("Synchronizing clocks...");
                     System.out.println("Before Sync:");
